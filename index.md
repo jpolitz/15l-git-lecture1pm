@@ -8,3 +8,5 @@ So is repository like an online IDE? (Not really, more about file storage than a
 Git page could be like a class website?
 
 Joe keeps adding stuff here!
+
+I'm making a change on my computer!!!
